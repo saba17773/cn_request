@@ -1,0 +1,10 @@
+{
+	"require" : {
+		"wattanar/router" : "dev-master",
+		"wattanar/sqlsrv" : "dev-master",
+		"league/plates": "*",
+	    "dompdf/dompdf" : "dev-master",
+	    "picqer/php-barcode-generator" : "*",
+	    "respect/validation" : "*"
+	}
+}

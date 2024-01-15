@@ -1,0 +1,26 @@
+{
+  "short_name": "MusicApp",
+  "name": "JayMusic Application ++",
+  "icons": [
+    {
+      "src": "_images/music-icon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "_images/music-icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "_images/music-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://www.google.co.th/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "red",
+  "prefer_related_applications": false
+}
